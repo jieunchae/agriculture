@@ -1,0 +1,3968 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<title>가격정보 - 친환경농산물 - 품목별 엑셀 출력</title>
+	<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+	<style type="text/css">
+		table caption	{ text-align:left; }
+		table th		{ background-color:#eff2f9; }
+		table td		{ mso-number-format:\@; text-align:general; vertical-align:middle; text-align:center; white-space:nowrap; mso-rotate:0; mso-background-source:auto; mso-pattern:auto; color:black; font-size:11.0pt; font-style:normal; text-decoration:none; font-family:"맑은 고딕", monospace; mso-font-charset:129; border:1px; mso-protection:locked visible; mso-style-name:표준; mso-style-id:0; }
+		table td.c		{ text-align:center;}
+		table td.l		{ text-align:left; }
+		table td.r		{ text-align:right; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td	class="data">
+				<table id="data" border="1px">
+					
+						<caption></caption>
+							<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col>
+	
+							<!-- header 생성 -->
+							
+								
+									
+										
+											</colgroup><tbody><tr>
+											<th scope="col" class="first" colspan="2">구분</th>
+										
+										<th scope="col" class="">08/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/04</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/05</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/12</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/19</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/25</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/26</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/27</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/31</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/01</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/02</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/04</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/08</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/09</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/15</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/22</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/25</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/29</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/05</th>
+										
+										
+									
+										
+										<th scope="col" class="last">10/06</th>
+										
+											</tr>
+										
+										
+									
+								
+							
+	
+							<!-- body 생성 -->
+								
+									
+										<tr class="fwb">
+											
+												<td class="first cell_tit1" colspan="2">평균</td>
+											
+											
+									
+									<td class="">6,441</td>
+									
+								
+									
+									<td class="">6,469</td>
+									
+								
+									
+									<td class="">6,469</td>
+									
+								
+									
+									<td class="">6,469</td>
+									
+								
+									
+									<td class="">6,469</td>
+									
+								
+									
+									<td class="">6,497</td>
+									
+								
+									
+									<td class="">6,497</td>
+									
+								
+									
+									<td class="">6,552</td>
+									
+								
+									
+									<td class="">6,580</td>
+									
+								
+									
+									<td class="">6,608</td>
+									
+								
+									
+									<td class="">6,691</td>
+									
+								
+									
+									<td class="">6,719</td>
+									
+								
+									
+									<td class="">6,819</td>
+									
+								
+									
+									<td class="">6,874</td>
+									
+								
+									
+									<td class="">6,884</td>
+									
+								
+									
+									<td class="">6,903</td>
+									
+								
+									
+									<td class="">6,921</td>
+									
+								
+									
+									<td class="">6,921</td>
+									
+								
+									
+									<td class="">6,921</td>
+									
+								
+									
+									<td class="">6,931</td>
+									
+								
+									
+									<td class="">6,940</td>
+									
+								
+									
+									<td class="">6,940</td>
+									
+								
+									
+									<td class="">6,961</td>
+									
+								
+									
+									<td class="">7,044</td>
+									
+								
+									
+									<td class="">7,044</td>
+									
+								
+									
+									<td class="">7,053</td>
+									
+								
+									
+									<td class="">7,053</td>
+									
+								
+									
+									<td class="">7,053</td>
+									
+								
+									
+									<td class="">7,070</td>
+									
+								
+									
+									<td class="">7,070</td>
+									
+								
+									
+									<td class="">7,070</td>
+									
+								
+									
+									<td class="">7,070</td>
+									
+								
+									
+									<td class="">7,070</td>
+									
+								
+									
+									<td class="">7,070</td>
+									
+								
+									
+									<td class="">7,070</td>
+									
+								
+									
+									<td class="">7,098</td>
+									
+								
+									
+									<td class="">7,098</td>
+									
+								
+									
+									<td class="">7,126</td>
+									
+								
+									
+									<td class="">7,126</td>
+									
+								
+									
+									<td class="">7,126</td>
+									
+								
+									
+									<td class="">7,098</td>
+									
+								
+									
+									<td class="">7,153</td>
+									
+								
+									
+									<td class="last">7,153</td>
+									
+										</tr>
+									
+								
+									
+										<tr class="fwb">
+											
+												<td class="first cell_tit1" colspan="2">평년</td>
+											
+											
+									
+									<td class="">7,227</td>
+									
+								
+									
+									<td class="">7,224</td>
+									
+								
+									
+									<td class="">7,219</td>
+									
+								
+									
+									<td class="">7,217</td>
+									
+								
+									
+									<td class="">7,214</td>
+									
+								
+									
+									<td class="">7,194</td>
+									
+								
+									
+									<td class="">7,192</td>
+									
+								
+									
+									<td class="">7,190</td>
+									
+								
+									
+									<td class="">7,187</td>
+									
+								
+									
+									<td class="">7,183</td>
+									
+								
+									
+									<td class="">7,123</td>
+									
+								
+									
+									<td class="">7,111</td>
+									
+								
+									
+									<td class="">7,100</td>
+									
+								
+									
+									<td class="">7,090</td>
+									
+								
+									
+									<td class="">7,077</td>
+									
+								
+									
+									<td class="">7,083</td>
+									
+								
+									
+									<td class="">7,083</td>
+									
+								
+									
+									<td class="">7,085</td>
+									
+								
+									
+									<td class="">7,085</td>
+									
+								
+									
+									<td class="">7,133</td>
+									
+								
+									
+									<td class="">7,134</td>
+									
+								
+									
+									<td class="">7,132</td>
+									
+								
+									
+									<td class="">7,133</td>
+									
+								
+									
+									<td class="">7,134</td>
+									
+								
+									
+									<td class="">7,135</td>
+									
+								
+									
+									<td class="">7,136</td>
+									
+								
+									
+									<td class="">7,138</td>
+									
+								
+									
+									<td class="">7,138</td>
+									
+								
+									
+									<td class="">7,158</td>
+									
+								
+									
+									<td class="">7,211</td>
+									
+								
+									
+									<td class="">7,227</td>
+									
+								
+									
+									<td class="">7,235</td>
+									
+								
+									
+									<td class="">7,244</td>
+									
+								
+									
+									<td class="">7,210</td>
+									
+								
+									
+									<td class="">7,205</td>
+									
+								
+									
+									<td class="">7,201</td>
+									
+								
+									
+									<td class="">7,196</td>
+									
+								
+									
+									<td class="">7,198</td>
+									
+								
+									
+									<td class="">7,199</td>
+									
+								
+									
+									<td class="">7,093</td>
+									
+								
+									
+									<td class="">7,097</td>
+									
+								
+									
+									<td class="">7,090</td>
+									
+								
+									
+									<td class="last">7,093</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="3">서울</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">경동</td>
+												
+												
+											
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="last">7,500</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+												
+													<td class="first cell_tit1" rowspan="1">복조리</td>
+												
+												
+											
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="last">7,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+												
+													<td class="first cell_tit1" rowspan="1">영등포</td>
+												
+												
+											
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="">7,830</td>
+									
+								
+									
+									<td class="last">7,830</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">부산</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">부전</td>
+												
+												
+											
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,700</td>
+									
+								
+									
+									<td class="">6,700</td>
+									
+								
+									
+									<td class="">6,700</td>
+									
+								
+									
+									<td class="">6,700</td>
+									
+								
+									
+									<td class="">6,700</td>
+									
+								
+									
+									<td class="">6,700</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="last">7,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">대구</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">동구</td>
+												
+												
+											
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="last">7,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">인천</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">현대</td>
+												
+												
+											
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="last">7,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">광주</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">양동</td>
+												
+												
+											
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="last">7,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">대전</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">역전</td>
+												
+												
+											
+									
+									<td class="">5,500</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="last">6,500</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">울산</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">신정</td>
+												
+												
+											
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="last">7,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">수원</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">지동</td>
+												
+												
+											
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="">8,000</td>
+									
+								
+									
+									<td class="last">8,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">춘천</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">중앙</td>
+												
+												
+											
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">6,460</td>
+									
+								
+									
+									<td class="">7,760</td>
+									
+								
+									
+									<td class="">7,760</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="">7,940</td>
+									
+								
+									
+									<td class="last">7,940</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">강릉</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">중앙</td>
+												
+												
+											
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="last">7,330</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">청주</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">육거리</td>
+												
+												
+											
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="last">6,830</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">전주</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">남부</td>
+												
+												
+											
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,160</td>
+									
+								
+									
+									<td class="">6,160</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="">7,000</td>
+									
+								
+									
+									<td class="last">7,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">순천</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">역전</td>
+												
+												
+											
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">6,500</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="last">7,500</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">포항</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">죽도</td>
+												
+												
+											
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,330</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="">7,500</td>
+									
+								
+									
+									<td class="last">7,500</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">창원</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">상남</td>
+												
+												
+											
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="">6,830</td>
+									
+								
+									
+									<td class="last">6,830</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">제주</td>
+												
+												
+													<td class="first cell_tit1" rowspan="1">동문</td>
+												
+												
+											
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">5,000</td>
+									
+								
+									
+									<td class="">6,000</td>
+									
+								
+									
+									<td class="last">6,000</td>
+									
+										</tr>
+									
+								
+								
+								
+						</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
